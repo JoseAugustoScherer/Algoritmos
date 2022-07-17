@@ -1,3 +1,5 @@
+# Algiritmos
+
 **Repositório com 100 questões resolvidas + lista!**
 
 Se você esta iniciando na programação e precisa de exercícios para treinar sua lógica, este repositório irá te ajudar. Além das questões, você encontra as respostas, caso haja alguma dúvida sobre alguma questão.
